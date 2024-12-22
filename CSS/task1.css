@@ -1,0 +1,32 @@
+div{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    margin: 3px;
+    display: flex;
+    flex-direction: row;
+}
+
+.one{
+    background-color: aliceblue;
+    width: 30px;
+    height: 50px;
+}
+
+.tow{
+    background-color: aliceblue;
+    width: 30px;
+    height: 50px;
+}
+
+.three{
+    background-color: aliceblue;
+    width: 30px;
+    height: 50px;
+}
+
+.four{
+    background-color: aliceblue;
+    width: 30px;
+    height: 50px;
+}

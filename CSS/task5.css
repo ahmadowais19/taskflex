@@ -1,0 +1,17 @@
+.container{
+    width: 300px;
+    height: auto;
+    margin: auto;
+    display: flex;
+    flex-flow: wrap ;
+    justify-content: center ;
+    align-items: center;
+}
+.A{
+    background-color: rgb(118, 118, 232);
+    text-align: center;
+    border: 3px solid rgb(93, 93, 148) ;
+    border-radius: 5px;
+    margin: 5px;
+
+}

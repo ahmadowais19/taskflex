@@ -1,0 +1,41 @@
+.mane{
+    text-align: center;
+    color: aliceblue;
+    width: 500px;
+    margin: 200px;
+    border: 2px solid orange;
+    outline: 2px solid black;
+  
+
+}
+
+.one{
+ background-color: darkcyan;
+}
+.tow{
+    background-color: aqua;
+}
+.three{
+    background-color: blueviolet;
+}
+.four{
+    background-color: midnightblue;
+}
+.five{
+    background-color: yellow;
+}
+.six{
+    background-color: orange;
+}
+.seven{
+    background-color: red;
+}
+.eight{
+    background-color: darkgray;
+}
+.nine{
+    background-color: chartreuse;
+}
+.ten{
+    background-color: darkgreen;
+}

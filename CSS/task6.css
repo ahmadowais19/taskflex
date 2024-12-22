@@ -1,0 +1,65 @@
+.mane{
+    border: 2px solid orange;
+    color: aliceblue;
+    
+    text-align: center;
+    width: 500px;
+    height: 300px;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    align-self: stretch;
+}
+
+.one{
+    background-color: aquamarine;
+    width: 20px;
+    flex: 0 5;
+    align-self: start;
+}
+.tow{
+    background-color: rgb(101, 101, 207);
+    width: 20px;
+    align-self: self-start;
+}
+ .three{
+    background-color: blueviolet;
+    width: 20px;
+    align-self: self-start;
+ }
+ .four{
+    background-color: rgb(57, 46, 46);
+    width: 20px;
+ }
+ .five{
+    background-color: yellow;
+    width: 20px;
+    align-self: center;
+
+ }
+ .six{
+    background-color: orange;
+    width: 20px;
+    align-self: self-start;
+ }
+ .seven{
+    background-color: red;
+    width: 20px;
+    align-self: self-start;
+ }
+ .eight{
+    background-color: gray;
+    width: 20px;
+    align-self: self-start;
+ }
+
+ .nine{
+    background-color: green;
+    width: 20px;
+    align-self: self-start;
+ }
+ .ten{
+    background-color: rgb(11, 42, 11);
+    width: 20px;
+    align-self: self-end;
+ }
